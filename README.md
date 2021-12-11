@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shriramsudrik
+- I am Microsoft Azure Certified Data Engineer | Databricks Partner Training Solution Architect Essentials | Databricks Certified Developer Essentials | Databricks Certified Developer Foundations
 - 👀 I’m interested in Data Science, Machine Learning, PySpark.
-- 🌱 I’m currently learning programming on Databricks Platform.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
